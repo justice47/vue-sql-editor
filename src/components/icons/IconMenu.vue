@@ -1,0 +1,6 @@
+<template>
+  <svg width="18" height="18" viewBox="0 0 18 18" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+    <path class=" svg-view-stroke" fill-rule="evenodd" clip-rule="evenodd" d="M8.88889 10.3704C9.70709 10.3704 10.3704 9.70715 10.3704 8.88895C10.3704 8.07075 9.70709 7.40747 8.88889 7.40747C8.07069 7.40747 7.40741 8.07075 7.40741 8.88895C7.40741 9.70715 8.07069 10.3704 8.88889 10.3704Z" stroke-opacity="0.87" stroke-width="1.77778" stroke-linecap="round" stroke-linejoin="round"></path><path class=" svg-view-stroke" fill-rule="evenodd" clip-rule="evenodd" d="M8.88889 4.44441C9.70709 4.44441 10.3704 3.78113 10.3704 2.96293C10.3704 2.14473 9.70709 1.48145 8.88889 1.48145C8.07069 1.48145 7.40741 2.14473 7.40741 2.96293C7.40741 3.78113 8.07069 4.44441 8.88889 4.44441Z" stroke-opacity="0.87" stroke-width="1.77778" stroke-linecap="round" stroke-linejoin="round"></path><path class=" svg-view-stroke" fill-rule="evenodd" clip-rule="evenodd" d="M8.88889 16.2963C9.70709 16.2963 10.3704 15.6331 10.3704 14.8149C10.3704 13.9967 9.70709 13.3334 8.88889 13.3334C8.07069 13.3334 7.40741 13.9967 7.40741 14.8149C7.40741 15.6331 8.07069 16.2963 8.88889 16.2963Z" stroke-opacity="0.87" stroke-width="1.77778" stroke-linecap="round" stroke-linejoin="round">
+    </path>
+  </svg>
+</template>
